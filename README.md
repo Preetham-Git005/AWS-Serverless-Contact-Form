@@ -8,7 +8,7 @@ This project implements a **serverless contact form** using the following AWS se
 
 ## 🌐 Live Demo
 
-![Click here to view/download my resume](http://ksaipreetham-resume-site.s3-website.ap-south-1.amazonaws.com/)
+[Click here to view/download my resume](http://ksaipreetham-resume-site.s3-website.ap-south-1.amazonaws.com/)
 
 ## 💡 How It Works
 
